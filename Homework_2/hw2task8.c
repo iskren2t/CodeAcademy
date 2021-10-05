@@ -9,4 +9,6 @@ x= x + 6;
 x= x - 10 + 2;
 
 printf("x = %d", x);
+
+return 0;
 }

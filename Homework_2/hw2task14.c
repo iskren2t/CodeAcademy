@@ -14,4 +14,6 @@ int main()
     secondsInYear = days * hours * minutes * seconds;
 
     printf("The seconds in a year are: %d", secondsInYear);
+
+    return 0;
 }
